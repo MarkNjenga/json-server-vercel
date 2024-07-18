@@ -1,9 +1,413 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "jokes": [
+    {
+      "id": 1,
+      "joke": "Why did the bullet lose its job? It got fired."
+    },
+    {
+      "id": 2,
+      "joke": "Yo momma is so fat that when she was diagnosed with a flesh-eating disease, the doctor gave her ten years to live."
+    },
+    {
+      "id": 3,
+      "joke": "Yo momma is so fat that the National Weather Service names each one of her farts."
+    },
+    {
+      "id": 4,
+      "joke": "What did one wall say to the other? I'll meet you at the corner."
+    },
+    {
+      "id": 5,
+      "joke": "Yo momma is so fat and dumb that the only reason she opened her email was because she heard it contained spam."
+    },
+    {
+      "id": 6,
+      "joke": "Yo momma is so fat she threw on a sheet for Halloween and went as Antarctica."
+    },
+    {
+      "id": 7,
+      "joke": "What’s America’s favourite soda? Mini soda."
+    },
+    {
+      "id": 8,
+      "joke": "Yo momma is so fat that she sat on a dollar and squeezed a booger out George Washington's nose."
+    },
+    {
+      "id": 9,
+      "joke": "Yo momma is so fat that when she gets in an elevator, it has to go down."
+    },
+    {
+      "id": 10,
+      "joke": "Why should you always knock before opening the fridge door? In case there's a salad dressing."
+    },
+    {
+      "id": 11,
+      "joke": "What’s the most famous fish? A starfish."
+    },
+    {
+      "id": 12,
+      "joke": "Yo momma is so fat that she left the house in high heels and came back wearing flip flops."
+    },
+    {
+      "id": 13,
+      "joke": "Yo momma is so fat that people jog around her for exercise."
+    },
+    {
+      "id": 14,
+      "joke": "Yo momma is so fat that I took a picture of her last Christmas and it's still printing!"
+    },
+    {
+      "id": 15,
+      "joke": "Yo momma is so fat that when she sat on Wal-Mart, she lowered the prices."
+    },
+    {
+      "id": 16,
+      "joke": "What do you call an alligator detective? An investi-gator."
+    },
+    {
+      "id": 17,
+      "joke": "Yo momma is so fat that light bends around her."
+    },
+    {
+      "id": 18,
+      "joke": "What happens when ice cream gets angry? It has a meltdown."
+    },
+    {
+      "id": 19,
+      "joke": "Yo momma is so fat that when she talks to herself, it's a long distance call."
+    },
+    {
+      "id": 20,
+      "joke": "What did the ocean say to the beach? Nothing. It just waved."
+    },
+    {
+      "id": 21,
+      "joke": "Yo momma is so fat that when she sits on the beach, Greenpeace shows up and tries to tow her back into the ocean..."
+    },
+    {
+      "id": 22,
+      "joke": "What did the tree say when summer finally arrived? What a re-leaf."
+    },
+    {
+      "id": 23,
+      "joke": "Yo momma is so fat that when she walked in front of the TV, I missed 3 seasons of Breaking Bad."
+    },
+    {
+      "id": 24,
+      "joke": "What sits on the seabed and has anxiety? A nervous wreck."
+    },
+    {
+      "id": 25,
+      "joke": "What do runners eat before a race? Nothing - they fast."
+    },
+    {
+      "id": 26,
+      "joke": "Yo momma is so fat that she was zoned for commercial development."
+    },
+    {
+      "id": 27,
+      "joke": "Why do bananas wear sunscreen? Because they peel."
+    },
+    {
+      "id": 28,
+      "joke": "Yo momma is so fat that when she sings, it's over for everybody."
+    },
+    {
+      "id": 29,
+      "joke": "Yo momma is so fat that when she got her shoes shined, she had to take the guy's word for it."
+    },
+    {
+      "id": 30,
+      "joke": "Why did the whale blush? It saw the ocean’s bottom."
+    },
+    {
+      "id": 31,
+      "joke": "Yo momma is so fat that her cereal bowl came with a lifeguard."
+    },
+    {
+      "id": 32,
+      "joke": "How do celebrities stay cool in the summer? They have many fans."
+    },
+    {
+      "id": 33,
+      "joke": "Yo momma is so fat that she comes at you from all directions."
+    },
+    {
+      "id": 34,
+      "joke": "Why is the ocean so clean? It has mer-maids."
+    },
+    {
+      "id": 35,
+      "joke": "Yo momma's so fat she blew up the Death Star."
+    },
+    {
+      "id": 36,
+      "joke": "Yo momma is so fat that she has to put her belt on with a boomerang."
+    },
+    {
+      "id": 37,
+      "joke": "Why did the golfer bring two pairs of pants to the course? In case he got a hole in one."
+    },
+    {
+      "id": 38,
+      "joke": "Yo momma is so fat that she broke the Stairway to Heaven."
+    },
+    {
+      "id": 39,
+      "joke": "Why don’t insects get sick? They have anty-bodies."
+    },
+    {
+      "id": 40,
+      "joke": "Yo momma is so fat that the last time the landlord saw her, he doubled the rent."
+    },
+    {
+      "id": 41,
+      "joke": "How did the picture end up in prison? It was framed."
+    },
+    {
+      "id": 42,
+      "joke": "What kind of music do bubbles hate? Pop."
+    },
+    {
+      "id": 43,
+      "joke": "Yo momma is so fat that her senior pictures had to be taken from a helicopter!"
+    },
+    {
+      "id": 44,
+      "joke": "Yo momma is so fat that everytime she walks in high heels, she strikes oil!"
+    },
+    {
+      "id": 45,
+      "joke": "Why did the hairdresser win the race? He knew a shortcut."
+    },
+    {
+      "id": 46,
+      "joke": "Yo momma is so fat that her butt drags on the ground and kids yell - 'there goes santa claus with his bag of toys!'"
+    },
+    {
+      "id": 47,
+      "joke": "Yo momma is so fat that even her clothes have stretch marks!"
+    },
+    {
+      "id": 48,
+      "joke": "Knock, knock! Who's there? Sia. Sia who? Sia at the beach."
+    },
+    {
+      "id": 49,
+      "joke": "Yo momma is so fat that when she asked for a waterbed, they put a blanket over the ocean!"
+    },
+    {
+      "id": 50,
+      "joke": "Have you ever been camping? It’s in tents."
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "puns": [
+    {
+      "id": 1,
+      "pun": "I’m reading a book on anti-gravity. It’s impossible to put down, just like a good slice of pizza."
+    },
+    {
+      "id": 2,
+      "pun": "What did one plate say to another plate? Tonight, dinner’s on me."
+    },
+    {
+      "id": 3,
+      "pun": "Why did the tomato turn red? Because it saw the salad dressing!"
+    },
+    {
+      "id": 4,
+      "pun": "I used to be a baker because I kneaded dough, but now I’m just in a jam."
+    },
+    {
+      "id": 5,
+      "pun": "Lettuce romaine calm; the salad is going to be OK."
+    },
+    {
+      "id": 6,
+      "pun": "What’s a vampire’s favorite fruit? A blood orange."
+    },
+    {
+      "id": 7,
+      "pun": "Why did the cookie go to the doctor? It was feeling crumbly."
+    },
+    {
+      "id": 8,
+      "pun": "The grape and the tomato had a squabble. The grape got stomped."
+    },
+    {
+      "id": 9,
+      "pun": "What do you call a lazy kangaroo? A pouch potato."
+    },
+    {
+      "id": 10,
+      "pun": "What do you call a pile of cats? A meowtain."
+    },
+    {
+      "id": 11,
+      "pun": "What do you call a fish with no eyes? Fsh!"
+    },
+    {
+      "id": 12,
+      "pun": "Did you hear about the cat who swallowed a ball of yarn? She gave birth to an entire litter of mittens!"
+    },
+    {
+      "id": 13,
+      "pun": "Why don’t seagulls fly over the bay? Because then they’d be bagels!"
+    },
+    {
+      "id": 14,
+      "pun": "Why did the chicken go to the seance? To talk to the other side."
+    },
+    {
+      "id": 15,
+      "pun": "How do you organize a space party? You planet!"
+    },
+    {
+      "id": 16,
+      "pun": "Why was the lion-tamer fined? He parked his car on the wrong side of the mane street."
+    },
+    {
+      "id": 17,
+      "pun": "What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+      "id": 18,
+      "pun": "Why did the bee go to the party? It wanted to bee social."
+    },
+    {
+      "id": 19,
+      "pun": "Why did the monkey like the banana? Because it had appeal!"
+    },
+    {
+      "id": 20,
+      "pun": "What do you call a lazy kangaroo? A pouch potato."
+    },
+    {
+      "id": 21,
+      "pun": "How does a penguin build its house? Igloos it together!"
+    },
+    {
+      "id": 22,
+      "pun": "What did the fish say when it hit the wall? Dam!"
+    },
+    {
+      "id": 23,
+      "pun": "What do you call a crocodile in a vest? An in-vest-igator."
+    },
+    {
+      "id": 24,
+      "pun": "What did the duck say when it bought lipstick? Put it on my bill."
+    },
+    {
+      "id": 25,
+      "pun": "I used to play piano by ear, but now I use my hands."
+    },
+    {
+      "id": 26,
+      "pun": "What did the grape do when it got stepped on? It let out a little wine."
+    },
+    {
+      "id": 27,
+      "pun": "I don’t trust stairs because they’re always up to something."
+    },
+    {
+      "id": 28,
+      "pun": "I’m reading a book about anti-gravity. It’s impossible to put down!"
+    },
+    {
+      "id": 29,
+      "pun": "Why did the scarecrow win an award? Because he was outstanding in his field."
+    },
+    {
+      "id": 30,
+      "pun": "I used to be a baker, but I couldn’t make enough dough. Now I’m rolling in the doughnut business."
+    },
+    {
+      "id": 31,
+      "pun": "What’s a pirate’s favorite letter? Arrrr… you might think it’s R, but it’s the C (sea)!"
+    },
+    {
+      "id": 32,
+      "pun": "I’m on a seafood diet. I see food and I eat it."
+    },
+    {
+      "id": 33,
+      "pun": "What did the tomato say to the potato? You’re too baked!"
+    },
+    {
+      "id": 34,
+      "pun": "Why did the cheese refuse to play cards with the other dairy products? It was afraid of getting grated."
+    },
+    {
+      "id": 35,
+      "pun": "Why don’t eggs tell each other secrets? Because they might crack up."
+    },
+    {
+      "id": 36,
+      "pun": "I’m writing a cookbook for procrastinators. It’s called “How to Make Dinner Tomorrow.”"
+    },
+    {
+      "id": 37,
+      "pun": "Why did the cookie cry? Because its mother was a wafer too long!"
+    },
+    {
+      "id": 38,
+      "pun": "Why did the man fall off the cliff? He couldn’t see that well."
+    },
+    {
+      "id": 39,
+      "pun": "What do you get when you cross a sheep and a bee? Baa-bees!"
+    },
+    {
+      "id": 40,
+      "pun": "What’s a crocodile’s favorite game show? “Snap” Judgment."
+    },
+    {
+      "id": 41,
+      "pun": "How do you catch a squirrel? Climb a tree and act like a nut!"
+    },
+    {
+      "id": 42,
+      "pun": "Why did the turtle cross the road? To get to the shell station."
+    },
+    {
+      "id": 43,
+      "pun": "Why did the owl invite his friends over? For a hootenanny!"
+    },
+    {
+      "id": 44,
+      "pun": "Why did the chicken cross the road? To get to the other side."
+    },
+    {
+      "id": 45,
+      "pun": "Why did the student bring a ladder to class? To go to high school."
+    },
+    {
+      "id": 46,
+      "pun": "How does a mathematician plow fields? With a pro-tractor."
+    },
+    {
+      "id": 47,
+      "pun": "What’s a math teacher’s favorite place in New York? Times Square."
+    },
+    {
+      "id": 48,
+      "pun": "Why do plants hate math? Because it gives them square roots."
+    },
+    {
+      "id": 49,
+      "pun": "Parallel lines have so much in common. Too bad they’ll never meet."
+    },
+    {
+      "id": 50,
+      "pun": "Why did the student do multiplication problems on the floor? The teacher told them not to use tables."
+    }
   ],
-  "profile": { "name": "typicode" }
+  "contacts": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "feedback": "This is my feedback."
+    }
+  ]
 }
