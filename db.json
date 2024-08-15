@@ -1580,6 +1580,12 @@
       "employeeId": "1445",
       "timeOut": "2024-08-13T19:42"
     }
+  ],
+  "Register": [
+    {
+      "Name": "Mark Njenga",
+      "Password": "codewarriors24."
+    }
   ]
 }
 
